@@ -1,3 +1,6 @@
 1
 ab
-s
+cat work.txt 
+work
+my branch
+
