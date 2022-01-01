@@ -1,2 +1,4 @@
 1
 ab
+cat work.txt 
+work
